@@ -1,0 +1,476 @@
+.navbar-brand{
+    color: darkgreen;
+    font-size: 35px;
+    font-weight: bold;
+    margin-right: 400px;
+}
+.navbar-brand:hover{
+    color: darkgreen;
+}
+#id1{
+    background-color: white;
+    width: 80%;
+    height: 580px;
+    border-radius: 15px;
+}
+#id2{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: darkgreen;
+}
+#label1{
+    color: darkgreen;
+    font-size: 20px;
+    padding-right: 1px;
+}
+#input1{
+    width: 30%;
+    margin-right: 110px;
+}
+#input1:hover{
+    background-color: green;
+    color: white;
+}
+#label2{
+    color: darkgreen;
+    font-size: 20px;
+    padding-right: 1px;
+}
+#input2{
+    width: 30%;
+    margin-right: 100px;
+}
+#input2:hover{
+    background-color: green;
+    color: white;
+}
+#input3{
+    font-weight: bold;
+    height: 40px;
+    width: 12%;
+    margin-left: 10px;
+    font-size: 20;
+    border-radius: 5px;
+    border: 7px solid green;
+    background: linear-gradient(to right, white 50%,green 50%);
+    background-size: 200% 100%;
+    background-position: left;
+    transition: all 0.5s ease-out;
+}
+#input3:hover{
+    background-color:darkgreen;
+    color: white;
+    background-position: right;
+}
+.footer2{
+    display: flex;
+    background-color:snow;
+    width: 100%;
+    height: 90px; 
+}
+body{
+    background-color: green;
+}
+#id3{
+    background-color: whitesmoke;
+    width: 80%;
+    height: 780px;
+    border-radius: 15px;
+}
+#label3{
+    color: darkgreen;
+    font-size: 20px;
+    padding-right: 1px;
+}
+#input4{
+    width: 30%;
+    margin-right: 80px;
+}
+#input4:hover{
+    background-color: green;
+    color: white;
+}
+#label4{
+    color: darkgreen;
+    font-size: 20px;
+    padding-right: 1px;
+}
+#input5{
+    width: 30%;
+    margin-right: 50px;
+}
+#input5:hover{
+    background-color: green;
+    color: white;
+}
+#label5{
+    color: darkgreen;
+    font-size: 20px;
+    padding-right: 250px;
+    padding-bottom: 7px;
+}
+#input6{
+    width: 30%;
+    height: 200px;
+    margin-left: 32px;
+    border-radius: 10px;
+}
+#input6:hover{
+    background-color: green;
+    color: white;
+}
+#input7{
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    width: 13%;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: 5px solid green;
+    background: linear-gradient(to right, white 50%,green 50%);
+    background-size: 200% 100%;
+    background-position: left;
+    transition: all 0.5s ease-out;
+}
+#input7:hover{
+    background-color:darkgreen;
+    color: white;
+    background-position: right;
+}
+#heading1{
+    color: white;
+    font-size: 58px;
+    text-align: center;
+}
+#section1{
+    background-color:whitesmoke ;
+}
+#heading2{
+    font-weight: 700;
+}
+#heading3{
+    color: white;
+    font-size: 58px;
+    text-align: center;
+}
+#section2{
+    background-color: whitesmoke;
+}
+#heading4{
+    text-align: center;
+    color: darkgreen;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading5{
+    color: black;
+    font-size: 38px;
+    text-align: center;
+    
+}
+#para1{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+color: maroon;
+}
+#section3{
+    background-color: whitesmoke;
+}
+.dropdown-item:hover{
+    background-color: green;
+    color: white;
+}
+.section8{
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 80px;
+    border-radius: 20px;
+}
+.content-home{
+    border-radius: 10px;
+}
+.fa-brands{
+    color:rgb(10, 10, 10);
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.fa-square-facebook{
+    margin-left: 100px;
+}
+.footernew{
+    font-size: 22px;
+    color: green;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.nav-link{
+    color: black;
+    font-size: 14;
+}
+.nav-link:hover{
+    color: green;
+}
+.dropdown-menu{
+    background-color: whitesmoke;
+}
+.h-home{
+    text-align: center;
+    font-size: 45px;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.div-home-2{
+    background-color: whitesmoke;
+    color: green;
+    width: 100%;
+    margin-top: 150px;
+}
+.div-home-1{
+    display: inline;
+    margin-left: 80px;
+    border-radius: 10px;
+
+}
+.img-home-1{
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.div-home-3{
+ display: inline;
+ border-radius: 10px;
+}
+.img-home-2{
+    border-radius: 10px;
+    height: 420px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.div-home-4{
+    border-radius: 10px;
+    height: 500px;
+}
+.img-home-3{
+    border-radius: 10px;
+    margin-top: 40px;
+    height: 550px;
+    width: 88.5%;
+    margin-left: 80px;
+}
+.p-1{
+    background-color: green;
+    color:whitesmoke;
+}
+.h-01{
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p-2{
+    background-color: whitesmoke;
+    color: maroon;
+    text-align: center;
+    width: 50%;
+    margin-left:400px;
+    border-radius: 20px;
+}
+.pa-1{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.container-places{
+    margin-left: 10px;
+}
+.card-1{
+    width:490px;
+    height: 350px;
+    background-color: whitesmoke;
+}
+.fa-brands:hover{
+    color: green;
+}
+.day-tour-div-1{
+    width: 100%;
+    background-color: whitesmoke;
+    color: green;  
+}
+.day-tour-heading-1{
+    color: green;
+    font-size: 45px;
+    text-align: center;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.day-tour-div-2{
+    height: 650px;
+    width: 50%;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    margin-left: 390px;
+}
+.day-tour-label-1{
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.day-tour-input-1{
+    width: 40%;
+    margin-left: 100px;
+    height: 30px;
+}
+.day-tour-input-1:hover{
+    background-color: green;
+    color: whitesmoke;
+}
+::placeholder:hover{
+    color: whitesmoke;
+}
+.day-tour-label-2{
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 0px;
+}
+.day-tour-input-2{
+    width: 40%;
+    margin-left: 100px;
+    height: 30px;
+    margin-top: 5px;
+}
+.day-tour-input-2:hover{
+    background-color: green;
+    color: whitesmoke;
+}
+.day-tour-label-3{
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.day-tour-input-3{
+    margin-left: 250px;
+}
+.day-tour-label-4{
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 35px;
+}
+.day-tour-input-8{
+   margin-left: 100px;
+
+}
+.day-tour-button-1{
+    margin-left: 300px;
+    width: 20%;
+    height: 35px;
+    border: 5px solid green;
+    margin-top: 15px;    background: linear-gradient(to right, white 50%,green 50%);
+    background-size: 200% 100%;
+    background-position: left;
+    transition: all 0.5s ease-out;
+}
+.day-tour-button-1:hover{
+    background-color:darkgreen;
+    color: white;
+    background-position: right;
+}
+.day-tour-page-1{
+    height: 750px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.card-day-tour{
+    width: 90%;
+    height: 720px;
+    background-color: whitesmoke;
+    color: green;
+    border: 5px solid darkgreen;
+    border-radius: 10px;
+}
+.day-tour-page-heading-1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    margin-top: 20px;
+}
+.day-tour-page-button-1{
+    background-color: whitesmoke;
+    height: 40px;
+    width: 40%;
+    margin-top: 20px;
+ background: linear-gradient(to right, white 50%,green 50%);
+    background-size: 200% 100%;
+    background-position: left;
+    transition: all 0.5s ease-out;
+}
+.day-tour-page-button-1:hover{
+    background-color:darkgreen;
+    color: white;
+    background-position: right;
+}
+.day-tour-page-heading-2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+.day-tour-page-p-1{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 2px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.day-tour-page-heading-3{
+    text-align: center;
+}
+.day-tour-page-heading-4{
+    text-align: center;
+    margin-top: 60px;
+}
+.day-tour-page-heading-5{
+    text-align: center;
+    margin-top:62px;
+}
+.day-tour-page-heading-6{
+    text-align: center;
+    margin-top: 55px;
+}
+.day-tour-page-heading-7{
+    text-align: center;
+    margin-top: 42px;
+}
+.day-tour-page-heading-9{
+    text-align: center;
+    margin-top: 30px;
+}
+.day-tour-page-heading-8{
+    text-align: center;
+    margin-top: 70px;
+}
+.day-tour-page-heading-10{
+    text-align: center;
+    margin-top: 25px;
+}
